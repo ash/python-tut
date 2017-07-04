@@ -1,0 +1,17 @@
+for
+while
+del
+if
+else
+elif
+while
+break
+continue
+pass
+def
+return
+global
+import
+from
+as
+class
