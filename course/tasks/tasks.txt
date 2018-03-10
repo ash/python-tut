@@ -115,6 +115,19 @@ print-nth-word.py
     Print the word from the string by its number.
 
 
+reverse-sentence.py
+    Take a sentence. Reverse the order of the words in it and print the new string.
+
+number-of-unique-elements.py
+    Enter a sentence. Count the number of different words in it.
+
+loop-list.py
+    For a given list of integer values, shift all the elements two positions towards the end of the list, so that ending elements go to the beginning.
+
+count-words-in-file.py
+    Count words in a file.
+
+
 
 # Определить длину самого короткого слова в строке
 # Определить процент строчных и прописных букв в строке
