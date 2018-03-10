@@ -17,3 +17,105 @@ credit-calculator.py
     (s * p * (1 + p)^n) / (12 * ((1 + p)^n – 1)),
     where s is the total credit amount, p is bank's interest rate, n is the credit term (in years). Also, print the total amount to be paid.
 
+repeat-strings.py
+    Repeat a given string the given number of times.
+
+
+triangle-area.py
+    Input the two sides of a right triangle and calculate its perimeter and area.
+
+swap-values.py
+    Swap the values of two variables.
+
+random-in-range.py
+    Ask for two numbers and print a random number that lies in the given range. It should work for both integers and floating-point values.
+
+sum-of-digits.py
+    Enter a three-digit integer number. Print the sum of its digits.
+
+sum-of-digits2.py
+    Solve the previous tasks for an arbitrary integer number.
+
+number-property.py
+    Enter a number. Tell 1) if it is a one-digit or two-digit or more-than-three-digit number and 2) if it is positive or negative.
+
+interval-function.py
+    Enter a number. Calculate the value of the function defined as:
+    y = x - 0.5 | x > 0
+    y = 0       | x = 0
+    y = |x|     | x < 0
+
+square-roots.py
+    Find the square roots of the equation ax^2 + bx + c = 0.
+    x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+
+leap-year.py
+    Tell if the given year is a leap year.
+
+    if year is not fivisible by 4 => common year
+    else if year is not divisible by 100 => leap year
+    else if year is not divisible by 400 => common year
+    else => leap year
+
+triangle-exists.py
+    Given the three numbers, tell if exists a triangle with such sides.
+
+quadrant.py
+    Given the coordinates of a point on a surface, tell, to which quadrant it belongs.
+
+in-circle.py
+    Determine if the given point (x, y) belongs to a square of radius r.
+
+guess-number.py
+    One user enters a secret number. The second use tries to guess it: it enters a guess, and sees a hint: 'less' or 'more'.
+
+flip-number.py
+    Flip the given integer number.
+
+max-powers.py
+    Given the maximum number N and the power index P, print all the integer numbers, whose power P does not exceed N.
+
+function-table.py
+    Print the table of sin(x) for x between 0 and 5. Use Excel to draw the graph.
+
+ascii.py
+    Print the list of ASCII characters.
+
+max.py
+    Find the maximum of the given ten integer numbers.
+
+max2.py
+    Solve the previous task without using arrays and the 'max' function.
+
+distance.py
+    Enter coordinates of two points on a surface. Find the distance between them.
+
+distance2.py
+    Solve the previous task using complex numbers.
+
+is-uniq.py
+    Tell if the list of ten integers contains only unique numbers.
+
+filter-odd-even.py
+    Enter ten numbers. Create a list, where all odd numbers go first and all even numbers are at the end of the list. Preserve the order of the entered data.
+
+space-replace-stars.py
+    Take a string. Replace all the spaces with *. If there are more than one space together, put a single star.
+
+find-numbers.py
+    Take a string. Find and print all integer numbers that it contains.
+
+replace-within-brackets.py
+    In a given string, remove the substring that is located betweeen a pair of square brackets. Try different inputs with nested brackets.
+
+shorten-long-words.py
+    Replace long words with their first five characters followed by ellipsis. 
+
+print-nth-word.py
+    Print the word from the string by its number.
+
+
+
+# Определить длину самого короткого слова в строке
+# Определить процент строчных и прописных букв в строке
+# Отсортировать слова в строке по возрастанию их длины
