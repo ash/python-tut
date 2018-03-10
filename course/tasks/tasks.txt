@@ -1,0 +1,19 @@
+equation-line.py
+    Enter coordinates of the two points on a surface. Print the equation of a straight line that crosses those points.
+
+    Check output if the calulated coefficients are negative.
+
+print-table.py
+    Print four numbers as an aligned table 2x2: 10, 235; 1000, 50.
+
+paint-cylinder.py
+    Enter three values: diameter and height of a cylinder and the area that you can paint with one can of paint. Calculate and print the number of cans you need to paint the cylinder.
+
+year-length.py
+    Given the distance from Sun and the speed of a planet, calculate and print the number of days in a year for that planet.
+
+credit-calculator.py
+    Calculate monthly payment for the credit given the formula:
+    (s * p * (1 + p)^n) / (12 * ((1 + p)^n – 1)),
+    where s is the total credit amount, p is bank's interest rate, n is the credit term (in years). Also, print the total amount to be paid.
+
