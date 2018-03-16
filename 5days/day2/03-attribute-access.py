@@ -1,3 +1,7 @@
+# This program demonstrates how you can access data attributes using
+# methods: get_age and inc_age. You still cannot hide the implementation
+# attributes from the user of the class, but if you use methods to 
+# manipulate data, you can restrict the operations that you can do with them.
 class Person:
     def __init__(self, name, age):
         self.age = age
