@@ -5,5 +5,5 @@ def cube(x):
 
 funcs = [square, cube]
 for r in range(5):
-    value = map(lambda x: x(r), funcs)
+    value = map(lambda f: f(r), funcs)
     print(list(value))
