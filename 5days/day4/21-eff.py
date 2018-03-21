@@ -1,3 +1,9 @@
+# Optimising the program by directly accessing the name:
+# Compare these three approaches:
+# import math => math.sqrt()
+# from math import sqrt => sqrt()
+# import math => f = math.sqrt; f()
+
 import time
 import math
 

@@ -1,3 +1,6 @@
+# Comparing different approaches to have pre-computed lookup tabels
+# vs. calculating the result at the time of a function call
+
 import time
 
     #0               1          2          3

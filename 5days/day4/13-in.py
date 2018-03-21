@@ -1,3 +1,5 @@
+# Comparing the speed of using 'in' and the implicit loop
+
 import random
 import time
 

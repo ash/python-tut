@@ -1,3 +1,5 @@
+# Creating a custome 'in' operator
+
 a = []
 a.append('alpha')
 a.append('beta')
@@ -12,6 +14,8 @@ class S:
         self.s = []
     def append(self, v):
         self.s.append(v)
+
+    # To do that, define the __contains__ method and make the necessary checks there:
     def __contains__(self, o):
         return o in self.s or o[::-1] in self.s
 

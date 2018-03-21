@@ -1,3 +1,6 @@
+# The '_' variable can be used as a dummy variable, but of course you can (theoretically)
+# create names for your variables, too
+
 for _ in range(10):
     print(_)
 _=5

@@ -1,3 +1,5 @@
+# Demonstrating lambda functions (can be replaced with list comprehensions)
+
 data = list(range(10))
 
 # def f(x):

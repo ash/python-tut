@@ -1,3 +1,5 @@
+# Demonstrating the methods of the re module
+
 import re
 
 s = 'EUR500 USD500'

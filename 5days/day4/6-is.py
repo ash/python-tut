@@ -1,3 +1,6 @@
+# Comparing == and 'is'. The 'is' keyword checks if its operands point to the _same_ object,
+# while == only compares the two values.
+
 x = 10
 y = x
 

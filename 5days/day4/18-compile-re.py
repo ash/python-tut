@@ -1,3 +1,5 @@
+# Using a pre-compiled regex to speed the program up.
+
 import re
 
 r = re.compile(r'\d+')

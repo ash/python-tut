@@ -1,3 +1,5 @@
+# Bitwise shifts can be used for division and multiplication 2^n
+
 x = 1024
 
 print(bin(x))

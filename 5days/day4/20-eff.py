@@ -1,3 +1,6 @@
+# Comparing speed of building a list using .append
+# vs. using a list comprehension.
+
 import time
 
 N = 10000000

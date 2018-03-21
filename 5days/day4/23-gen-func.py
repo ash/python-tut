@@ -1,3 +1,5 @@
+# List comprehension vs. generators (both uses the function f)
+
 def f(x):
     print('f(%i)' % x)
     return x**2

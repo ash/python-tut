@@ -1,3 +1,5 @@
+# Some other built-in functions that were not covered yet.
+
 print(all([True, True, False]))
 print(any([True, True, False]))
 print(ascii('Zürich'))
